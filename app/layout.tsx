@@ -13,9 +13,9 @@ export const metadata: Metadata = {
   description:
     "Kivo is a premium desktop learning platform for ambitious beginners who want to build real skills, organize their progress, and turn ideas into income through courses, systems, templates, and practical tools.",
   icons: {
-    icon: "/kivo-logo.png",
-    shortcut: "/kivo-logo.png",
-    apple: "/kivo-logo.png",
+    icon: "/favicon.png",
+    shortcut: "/favicon.png",
+    apple: "/favicon.png",
   },
   openGraph: {
     title: "Kivo | Coming Soon",
